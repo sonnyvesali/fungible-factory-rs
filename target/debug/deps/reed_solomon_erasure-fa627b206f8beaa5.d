@@ -1,0 +1,15 @@
+/home/svesali/dev/fungible-factory/target/debug/deps/reed_solomon_erasure-fa627b206f8beaa5.rmeta: /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/lib.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/macros.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/core.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/errors.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/inversion_tree.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/matrix.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_16.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_8.rs /home/svesali/dev/fungible-factory/target/debug/build/reed-solomon-erasure-d9c1267cee384d14/out/table.rs
+
+/home/svesali/dev/fungible-factory/target/debug/deps/reed_solomon_erasure-fa627b206f8beaa5.d: /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/lib.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/macros.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/core.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/errors.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/inversion_tree.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/matrix.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_16.rs /home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_8.rs /home/svesali/dev/fungible-factory/target/debug/build/reed-solomon-erasure-d9c1267cee384d14/out/table.rs
+
+/home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/lib.rs:
+/home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/macros.rs:
+/home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/core.rs:
+/home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/errors.rs:
+/home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/inversion_tree.rs:
+/home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/matrix.rs:
+/home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_16.rs:
+/home/svesali/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_8.rs:
+/home/svesali/dev/fungible-factory/target/debug/build/reed-solomon-erasure-d9c1267cee384d14/out/table.rs:
+
+# env-dep:OUT_DIR=/home/svesali/dev/fungible-factory/target/debug/build/reed-solomon-erasure-d9c1267cee384d14/out
