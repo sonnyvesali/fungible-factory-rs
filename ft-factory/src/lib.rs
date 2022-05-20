@@ -14,8 +14,10 @@ pub struct TokenFactory {
 #[near_bindgen]
 impl TokenFactory {
     
-   pub fn default(&mut self) {
-        self.main_account_id = env::signer_account_id();
+   pub fn new() -> Self {
+       Self {
+            main_account_id: env::signer_account_id(),
+       }
     }
 
 
