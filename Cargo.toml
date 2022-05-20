@@ -1,5 +1,5 @@
 [profile.release]
-codegen-unites = 1
+codegen-units = 1
 opt-level = "z"
 lto = true
 debug = false
@@ -9,5 +9,6 @@ overflow-checks = true
 [workspace]
 members = [
     "ft",
-    "ft-factory"
+    "ft-factory",
+    
 ]
