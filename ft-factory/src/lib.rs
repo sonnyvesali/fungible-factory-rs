@@ -12,9 +12,10 @@ pub struct TokenFactory {
 #[near_bindgen]
 impl TokenFactory {
     
-    #[init]
-    pub fn new() -> Self {
-    Self { main_account_id: env::signer_account_id().to_string() }
+   pub fn new() -> Self {
+       Self {
+            main_account_id: env::signer_account_id(),
+       }
     }
 
 
@@ -29,10 +30,19 @@ impl TokenFactory {
     }
 }
 
-// #[cfg(all(test, not(target_arch="wasm32")))]
-// mod tests {
-//     use super::*;
-//     use near_sdk::test_utils::VMContextBuilder;
-//     use near_sdk::{testing_env, VMContext};
-//     use std::convert::TryInto;
-// }
+// ok so now it compiles now it's time to write some tests to make sure it performs as expected, unit tests should be able to cover all 
+// of the bases for this simple contract once we get it passing
+
+
+#[cfg(all(test, not(target_arch="wasm32")))]
+mod tests {
+    use super::*;
+    use near_sdk::test_utils::VMContextBuilder;
+    use near_sdk::{testing_env, VMContext};
+    use std::convert::TryInto;
+
+    // What does the context need to include for these tests ? 
+    //    
+
+
+}
