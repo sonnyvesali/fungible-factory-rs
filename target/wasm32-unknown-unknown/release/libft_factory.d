@@ -1,0 +1,1 @@
+/home/svesali/dev/fungible-factory/target/wasm32-unknown-unknown/release/libft_factory.rlib: /home/svesali/dev/fungible-factory/ft-factory/src/FT.wasm /home/svesali/dev/fungible-factory/ft-factory/src/lib.rs

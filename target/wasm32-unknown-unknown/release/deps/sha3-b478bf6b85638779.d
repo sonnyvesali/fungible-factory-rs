@@ -1,0 +1,11 @@
+/home/svesali/dev/fungible-factory/target/wasm32-unknown-unknown/release/deps/sha3-b478bf6b85638779.rmeta: /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/lib.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/paddings.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/macros.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/reader.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/state.rs
+
+/home/svesali/dev/fungible-factory/target/wasm32-unknown-unknown/release/deps/libsha3-b478bf6b85638779.rlib: /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/lib.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/paddings.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/macros.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/reader.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/state.rs
+
+/home/svesali/dev/fungible-factory/target/wasm32-unknown-unknown/release/deps/sha3-b478bf6b85638779.d: /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/lib.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/paddings.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/macros.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/reader.rs /home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/state.rs
+
+/home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/lib.rs:
+/home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/paddings.rs:
+/home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/macros.rs:
+/home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/reader.rs:
+/home/svesali/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha3-0.9.1/src/state.rs:

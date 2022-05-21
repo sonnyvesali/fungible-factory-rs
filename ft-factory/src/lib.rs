@@ -3,15 +3,16 @@ use near_sdk::borsh::{self, BorshDeserialize, BorshSerialize};
 const CODE: &'static [u8] = include_bytes!("FT.wasm");
 
 #[near_bindgen]
-#[derive(BorshDeserialize, BorshSerialize, Default)]
+#[derive(Default, BorshDeserialize, BorshSerialize)]
 pub struct TokenFactory {
-    main_account_id: String,
+    main_account_id: AccountId,
 }
 
 
 #[near_bindgen]
 impl TokenFactory {
     
+#[result_serializer(borsh)]
    pub fn new() -> Self {
        Self {
             main_account_id: env::signer_account_id(),
